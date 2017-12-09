@@ -1,8 +1,8 @@
 {
-  "name": "emojione-picker",
-  "version": "2.2.1",
-  "author": "Tom Moor",
-  "description": "An emoji picker for React",
+  "name": "emojione-new-picker",
+  "version": "1.0.1",
+  "author": "Mayur",
+  "description": "An emoji picker for React with frequently used emojis",
   "main": "lib/picker.js",
   "scripts": {
     "build": "babel src -d lib --ignore __tests__",
@@ -15,10 +15,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tommoor/emojione-picker.git"
+    "url": "https://github.com/mayurgaud/emojione-picker.git"
   },
   "bugs": {
-    "url": "https://github.com/tommoor/emojione-picker/issues"
+    "url": "https://github.com/mayurgaud/emojione-picker/issues"
   },
   "license": "MIT",
   "keywords": [
