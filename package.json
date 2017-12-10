@@ -2,7 +2,7 @@
   "name": "emojione-new-picker",
   "version": "1.0.1",
   "author": "Mayur",
-  "description": "An emoji picker for React with frequently used emojis",
+  "description": "An emoji picker for React with recently used emojis",
   "main": "lib/picker.js",
   "scripts": {
     "build": "babel src -d lib --ignore __tests__",
